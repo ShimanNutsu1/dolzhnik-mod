@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": { "model": "dolzhnik:block/black_trunk", "x": 90, "y": 90 },
+    "axis=y": { "model": "dolzhnik:block/black_trunk" },
+    "axis=z": { "model": "dolzhnik:block/black_trunk", "x": 90 }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": { "end": "dolzhnik:block/black_trunk_top", "side": "dolzhnik:block/black_trunk" }
+}
